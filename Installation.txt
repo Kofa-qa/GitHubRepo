@@ -2,3 +2,4 @@ Steps to follow:
 Download the software.
 Click on executables.
 Perform the steps.
+Validate the steps are successfully.
